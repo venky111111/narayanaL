@@ -1,0 +1,5 @@
+class SocialUser < User
+
+end
+
+

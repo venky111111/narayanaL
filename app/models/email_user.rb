@@ -1,0 +1,4 @@
+class EmailUser < User
+	
+	 
+end

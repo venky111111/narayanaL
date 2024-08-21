@@ -1,0 +1,2 @@
+class OnlinePayment < Order
+end

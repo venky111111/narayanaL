@@ -1,0 +1,3 @@
+class EmailOtp < Otp
+	
+end

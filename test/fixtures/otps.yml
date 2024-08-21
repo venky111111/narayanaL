@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  otp_number: MyString
+  otp_expiry: 2024-06-26 15:43:29
+  type: 
+  created_at: 2024-06-26 15:43:29
+  updated_at: 2024-06-26 15:43:29
+  email: MyString
+  mobile_number: MyString
+
+two:
+  user_id: 1
+  otp_number: MyString
+  otp_expiry: 2024-06-26 15:43:29
+  type: 
+  created_at: 2024-06-26 15:43:29
+  updated_at: 2024-06-26 15:43:29
+  email: MyString
+  mobile_number: MyString
